@@ -6,6 +6,7 @@
 ## Убедитесь что установлен nginx
 ```bash
 apt install 
+```
 
 ## Dev Server
 
